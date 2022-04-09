@@ -25,7 +25,7 @@ installed. Instructions for installing Poetry are available
 2. Clone your new repository:
 
    ```sh
-   git clone <repo_url>
+   git clone {repo_url}
    ```
 
 3. From the project's root directory, create a virtual environment with your
